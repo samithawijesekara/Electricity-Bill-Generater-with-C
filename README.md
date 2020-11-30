@@ -18,6 +18,8 @@ gcc -o app app.c
 ```
 <img src="img/app_run.png">
 
+## Online Compilation & Run Code
+It's simple. Just open this **[link](https://www.onlinegdb.com/online_c_compiler)** and paste the whole code. Then you can compile and run this programme within 5 secends. 😉😍</br>
 
 
 ## App Summery
